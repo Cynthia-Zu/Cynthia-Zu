@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Cynthia
 
 💻 Full-Stack Web Developer | Passionate about building modern, scalable web applications  
 🚀 Focused on creating clean UI, efficient backend systems, and great user experiences  
@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **[Your Current Project]**
+- 🔭 Currently working on: IT Support & Web Developer
 - 🌱 Learning: **Advanced React, System Design, Cloud Deployment**
 - 👯 Open to collaborate on: **Web apps & open-source projects**
 - 💬 Ask me about: **JavaScript, React, Node.js, APIs**
@@ -84,8 +84,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/cynthia-zumaran
+- 📧 Email: cynthiafzumaran@gmail.com
 - 🌐 Portfolio: https://yourwebsite.com
 
 ---
