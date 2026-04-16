@@ -41,52 +41,41 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name 1
-**Description:** Brief explanation of what it does  
-**Tech Stack:** React, Node.js, MongoDB  
+### 🔹 Portfolio Website
+**Description:** A responsive personal portfolio website to showcase academic projects and coursework  
+**Tech Stack:** HTML, CSS, JavaScript 
 
 **Features:**
-- User authentication
-- CRUD functionality
-- Responsive design  
+- Interactive UI with JavaScript functionality
+- Smooth CSS animations and responsive design
+- Organized project showcase section
+---
 
-🔗 Live Demo: https://your-link.com  
-📂 Repository: https://github.com/yourusername/project1  
+### 🔹 Database Management System
+**Description:** A student records database system designed for efficient data storage and retrieval  
+**Tech Stack:** SQL, MySQL
+
+**Features:**
+- Structured relational database design
+- Optimized SQL queries for fast data access
+- Data management operations (insert, update, delete)
 
 ---
 
-### 🔹 Project Name 2
-**Description:** What problem it solves  
-**Tech Stack:** Next.js, API integration  
+### 🔹 Cloud Deployment Project
+**Description:** A web application deployed on a cloud server to demonstrate hosting and infrastructure skills 
+**Tech Stack:** AWS EC2  
 
 **Features:**
-- Real-time data fetching
-- Clean UI/UX
-- Mobile-friendly  
-
-🔗 Live Demo: https://your-link.com  
-📂 Repository: https://github.com/yourusername/project2  
-
----
-
-### 🔹 Project Name 3
-**Description:** Short summary  
-**Tech Stack:** HTML, CSS, JavaScript  
-
-**Features:**
-- Interactive UI
-- Optimized performance  
-
-🔗 Live Demo: https://your-link.com  
-📂 Repository: https://github.com/yourusername/project3  
-
+- Cloud-based deployment using EC2
+- Server configuration and hosting setup
+- Hands-on experience with scalable infrastructure
 ---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/cynthia-zumaran
 - 📧 Email: cynthiafzumaran@gmail.com
-- 🌐 Portfolio: https://yourwebsite.com
 
 ---
 
