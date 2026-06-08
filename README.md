@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Cynthia
 
 💻 IT Support Professional | Computer Engineering Graduate | Web Development Enthusiast 
-🔭 Currently working on: IT Support, Cloud Technologies, and Web Development Projects  
-
 ---
 
 ## 🧠 About Me
