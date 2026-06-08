@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cynthia
 
-💻 Full-Stack Web Developer | Passionate about building modern, scalable web applications  
-🚀 Focused on creating clean UI, efficient backend systems, and great user experiences  
+💻 IT Support Professional | Computer Engineering Graduate | Web Development Enthusiast 
+🔭 Currently working on: IT Support, Cloud Technologies, and Web Development Projects  
 
 ---
 
@@ -14,63 +14,73 @@
 - ⚡ Fun fact: I enjoy solving real-world problems with code
 
 ---
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js
-- Tailwind CSS, Bootstrap
-
-### ⚙️ Backend
-- Node.js, Express.js
-- REST APIs
-- Authentication (JWT, OAuth)
-
-### 🗄️ Database
-- MongoDB
-- MySQL / PostgreSQL
-
-### ☁️ Tools & DevOps
-- Git & GitHub
-- Docker (basic)
-- Vercel / Netlify / Render
-- Postman
+🛠️ Technical Skills
+💻 Programming & Web
+  -Java
+  -Python
+  -JavaScript
+  -HTML5
+  -CSS3
+  -WordPress
+  
+🗄️ Databases
+  -SQL
+  -MySQL
+  
+☁️ Cloud & Tools
+  -AWS EC2
+  -Microsoft Azure Fundamentals
+  -Git
+  -GitHub
+  -VS Code
+  
+🖥️ Systems & IT
+  -Windows
+  -Linux
+  -Networking Fundamentals
+  -Technical Support
+  -Troubleshooting
+  -System Administration
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Portfolio Website
-**Description:** A responsive personal portfolio website to showcase academic projects and coursework  
-**Tech Stack:** HTML, CSS, JavaScript 
+🔹 Coffee Shop Website (In Progress)
 
-**Features:**
-- Interactive UI with JavaScript functionality
-- Smooth CSS animations and responsive design
-- Organized project showcase section
----
+Description: A responsive coffee shop website developed using WordPress to provide an engaging user experience and showcase products and services.
 
-### 🔹 Database Management System
-**Description:** A student records database system designed for efficient data storage and retrieval  
-**Tech Stack:** SQL, MySQL
+Tech Stack: WordPress, HTML, CSS
 
-**Features:**
-- Structured relational database design
-- Optimized SQL queries for fast data access
-- Data management operations (insert, update, delete)
+Features:
+ -Responsive design for desktop and mobile devices
+ -Custom pages for menu, products, and contact information 
+ -User-friendly navigation and layout
+ -Ongoing improvements to design and functionality
 
----
+🔹 Student Database Management System
 
-### 🔹 Cloud Deployment Project
-**Description:** A web application deployed on a cloud server to demonstrate hosting and infrastructure skills 
-**Tech Stack:** AWS EC2  
+Description: Designed and developed a student records database system to efficiently store, manage, and retrieve academic information.
 
-**Features:**
-- Cloud-based deployment using EC2
-- Server configuration and hosting setup
-- Hands-on experience with scalable infrastructure
----
+Tech Stack: SQL, MySQL
+
+Features:
+ -Designed a structured relational database schema
+ -Developed SQL queries for data retrieval, reporting, and record management
+ -Performed CRUD operations (Create, Read, Update, Delete)
+ -Improved data organization and accessibility through efficient database design
+
+🔹 AWS Cloud Deployment Project
+
+Description: Deployed a web application on AWS EC2 to gain hands-on experience with cloud infrastructure, server configuration, and application hosting.
+
+Tech Stack: AWS EC2
+
+Features:
+ -Launched and configured virtual servers using AWS EC2
+ -Deployed and hosted a web application in a cloud environment
+ -Configured server settings and managed application access
+ -Gained practical experience with cloud deployment and infrastructure management
 
 ## 📫 Connect With Me
 
