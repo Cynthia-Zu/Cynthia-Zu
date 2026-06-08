@@ -8,7 +8,7 @@
 - 🔭 Currently working on: IT Support & Web Developer
 - 🌱 Learning: **Advanced React, System Design, Cloud Deployment**
 - 👯 Open to collaborate on: **Web apps & open-source projects**
-- 💬 Ask me about: **JavaScript, React, Node.js, APIs**
+- 💬 Ask me about: Technical Support, Windows, Networking Fundamentals, HTML, CSS, JavaScript, and AWS
 - ⚡ Fun fact: I enjoy solving real-world problems with code
 
 ---
@@ -45,6 +45,7 @@
 ## 🚀 Featured Projects
 
 🔹 Coffee Shop Website (In Progress)
+Repository: github.com/Cynthia-Zu/coffee-shop-website
 
 Description: A responsive coffee shop website developed using WordPress to provide an engaging user experience and showcase products and services.
 
