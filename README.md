@@ -44,20 +44,26 @@
 
 ## 🚀 Featured Projects
 
-🔹 Coffee Shop Website (In Progress)
+🔹Bean Brew Café Website | HTML, CSS, JavaScript (In Progress)
 Repository: github.com/Cynthia-Zu/coffee-shop-website
 
-Description: A responsive coffee shop website developed using WordPress to provide an engaging user experience and showcase products and services.
+•A responsive multi-page café website designed for a fictional coffee shop, Bean Brew Café.
+•The website includes sections such as Home, About, Menu, Gallery, and Contact, providing a complete user experience for browsing café information.
+•Built with a focus on modern UI design, responsiveness, and user-friendly navigation.
 
-Tech Stack: WordPress, HTML, CSS
+Technologies Used:
+• HTML
+• CSS
+• JavaScript
 
 Features:
- -Responsive design for desktop and mobile devices
- -Custom pages for menu, products, and contact information 
- -User-friendly navigation and layout
- -Ongoing improvements to design and functionality
+• Multi-page website structure
+• Responsive layout for desktop and mobile
+• Interactive navigation menu
 
-🔹 Student Database Management System
+## 📸 Screenshoots
+
+🔹Student Database Management System
 
 Description: Designed and developed a student records database system to efficiently store, manage, and retrieve academic information.
 
@@ -69,7 +75,7 @@ Features:
  -Performed CRUD operations (Create, Read, Update, Delete)
  -Improved data organization and accessibility through efficient database design
 
-🔹 AWS Cloud Deployment Project
+🔹AWS Cloud Deployment Project
 
 Description: Deployed a web application on AWS EC2 to gain hands-on experience with cloud infrastructure, server configuration, and application hosting.
 
