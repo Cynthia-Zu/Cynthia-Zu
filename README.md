@@ -61,8 +61,6 @@ Features:
 • Responsive layout for desktop and mobile
 • Interactive navigation menu
 
-## 📸 Screenshoots
-
 🔹Student Database Management System
 
 Description: Designed and developed a student records database system to efficiently store, manage, and retrieve academic information.
