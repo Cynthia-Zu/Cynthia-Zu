@@ -63,13 +63,13 @@ Features:
 ## 📸 Screenshots
 
 ### Home Page
-![Home](images/Home.png)
+![Home](images/home.png)
 
 ### Menu Page
-![Menu](images/Menu.png)
+![Menu](images/menu.png)
 
 ### About Page
-![About](images/About.png)
+![About](images/about.png)
 
 ### Gallery
 ![Gallery](images/Gallery.png)
@@ -78,7 +78,7 @@ Features:
 ![Contact](images/Contact.png)
 
 ### Front Page
-![Front Page](images/Front-Page.png)
+![Front Page](images/front-page.png)
 
 🔹Student Database Management System
 
