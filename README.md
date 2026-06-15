@@ -67,7 +67,8 @@ Features:
 ![Home](Home.png)
 
 ### Front Page
-![Front Page](Front%20Page.png)
+<img width="1311" height="630" alt="image" src="https://github.com/user-attachments/assets/479ec467-75bb-4c11-bffd-721ee5d30392" />
+
 
 ### About Page
 ![About](About%202.png)
