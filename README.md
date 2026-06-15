@@ -64,23 +64,22 @@ Features:
 ## 📸 Screenshots
 
 ### Home Page
-![Home](Home.png)
+<img width="1223" height="626" alt="image" src="https://github.com/user-attachments/assets/b3c08041-27c4-4c4d-9e4d-25c1af7875a0" />
 
 ### Front Page
 <img width="1311" height="630" alt="image" src="https://github.com/user-attachments/assets/479ec467-75bb-4c11-bffd-721ee5d30392" />
 
-
 ### About Page
-![About](About%202.png)
+<img width="1263" height="628" alt="image" src="https://github.com/user-attachments/assets/3f84adf9-4de8-4076-8f28-0c90cc01faae" />
 
 ### Menu Page
-![Menu](Menu%202.png)
+<img width="1264" height="503" alt="image" src="https://github.com/user-attachments/assets/6f6bf393-0f60-4820-afce-cb1a949bfe6b" />
 
 ### Gallery Page
-![Gallery](Gallery%202.png)
+<img width="1278" height="613" alt="image" src="https://github.com/user-attachments/assets/87a7c0e0-b3fd-4ea2-acca-3ed81a350f22" />
 
 ### Contact Page
-![Contact](Contact%201.png)
+<img width="1267" height="604" alt="image" src="https://github.com/user-attachments/assets/aa25904e-fc65-4587-b626-a511d1bda472" />
 
 🔹Student Database Management System
 
