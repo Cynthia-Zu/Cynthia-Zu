@@ -67,19 +67,19 @@ Features:
 ![Home](Home.png)
 
 ### Front Page
-![Front Page](Front%20Page.png)
+![Front Page](Front-Page.png)
 
 ### About Page
-![About](About%202.png)
+![About](About-2.png)
 
 ### Menu Page
-![Menu](Menu%202.png)
+![Menu](Menu-2.png)
 
 ### Gallery Page
-![Gallery](Gallery%202.png)
+![Gallery](Gallery-2.png)
 
 ### Contact Page
-![Contact](Contact%201.png)
+![Contact](Contact-1.png)
 
 🔹Student Database Management System
 
