@@ -60,25 +60,26 @@ Features:
 • Multi-page website structure
 • Responsive layout for desktop and mobile
 • Interactive navigation menu
+
 ## 📸 Screenshots
 
 ### Home Page
-![Home](images/home.png)
-
-### Menu Page
-![Menu](images/menu.png)
-
-### About Page
-![About](images/about.png)
-
-### Gallery
-![Gallery](images/Gallery.png)
-
-### Contact Page
-![Contact](images/Contact.png)
+![Home](Home.png)
 
 ### Front Page
-![Front Page](images/front-page.png)
+![Front Page](Front%20Page.png)
+
+### About Page
+![About](About%202.png)
+
+### Menu Page
+![Menu](Menu%202.png)
+
+### Gallery Page
+![Gallery](Gallery%202.png)
+
+### Contact Page
+![Contact](Contact%201.png)
 
 🔹Student Database Management System
 
